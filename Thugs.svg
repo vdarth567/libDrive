@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
+<g transform="matrix(1 0 0 1 540 540)" id="56b231ed-8373-4425-80e8-2b661669b982"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="0bf025ba-a78e-4841-aaad-ac22681b0db6"  >
+</g>
+<g transform="matrix(0.99 0 0 0.99 535.72 539.84)" style="filter: url(#SVGID_6);" id="e5ff4e65-e15c-4134-a31a-f8a50d3f3c3a"  >
+<filter id="SVGID_6" y="-20%" height="140%" x="-20%" width="140%" >
+	<feGaussianBlur in="SourceAlpha" stdDeviation="0"></feGaussianBlur>
+	<feOffset dx="0" dy="0" result="oBlur" ></feOffset>
+	<feFlood flood-color="rgb(202,181,181)" flood-opacity="1"/>
+	<feComposite in2="oBlur" operator="in" />
+	<feMerge>
+		<feMergeNode></feMergeNode>
+		<feMergeNode in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+		<rect opacity="0" fill="rgb(0,0,0)" x="-432" y="-59.32" width="864" height="118.65"></rect>
+		<text xml:space="preserve" font-family="Raleway" font-size="105" font-style="normal" font-weight="900" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(229,164,89); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-159.13" y="32.98" >Thugs</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 496.02 636.69)" style="" id="134f024b-33fe-454d-987f-fcdcaa38214f"  >
+		<text xml:space="preserve" font-family="Alegreya" font-size="80" font-style="normal" font-weight="700" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(223,176,108); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-99.32" y="25.13" >Cloud</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 646.75 634.45)" id="3f9cb18f-b3bc-42ef-b4e9-7f0aeda905f0"  >
+<path style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(223,151,88); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-50, -50)" d="M 78.09 20.881 C 78.09 20.881 81.44200000000001 6.4719999999999995 69.602 16.469 L 58.488 36.071 L 19.339 35.68 L 13.755999999999998 44.559 L 48.884 51.205999999999996 L 40.003 67.848 L 30.622 68.576 L 26.32 74.496 L 39.669 77.455 L 47.208 87.06099999999999 L 50.727 80.806 L 47.207 71.2 L 57.762 55.620000000000005 L 80.884 82.25800000000001 L 86.244 73.043 L 67.368 39.757 L 78.09 20.881 z" stroke-linecap="round" />
+</g>
+</svg>
